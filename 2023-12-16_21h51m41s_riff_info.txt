@@ -1,0 +1,6 @@
+Channels: 2
+SampleWidth: 2
+FrameRate: 48000
+NumFrames: 4049067
+CompressionType: 4
+CompressionName: not available
